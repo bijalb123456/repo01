@@ -1,0 +1,5 @@
+int a =10;
+int b = 20 ;
+int a = a+ b ;
+int b = a-b ;
+int a = a + b;
