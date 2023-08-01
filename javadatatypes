@@ -1,6 +1,6 @@
-String
-  integer
-  boolean
+String == "name";
+integer == 10;
+boolean == true, false
     double
     byte
     float
