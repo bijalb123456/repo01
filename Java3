@@ -1,2 +1,5 @@
 datatypes
 variables
+int num = 10;
+where int is data type which is premitive 
+and num is variable with value 10
