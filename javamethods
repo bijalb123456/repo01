@@ -1,4 +1,4 @@
 there are different methods
-1)static
+1)static -- no need to create object
 2)private
 3)public
